@@ -29,8 +29,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### My Tasks
-[x] Complete the github page
-[ ] Work on fibonacci from pascal triangle code
+- [x] Complete the github page
+- [ ] Work on fibonacci from pascal triangle code
 
 ### Jekyll Themes
 
