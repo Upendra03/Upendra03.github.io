@@ -28,6 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### My Tasks
+- [] Complete the gothub page
+- [] work on fibonacci from pascal triangle code
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Upendra03/Upendra03.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -37,3 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 - [Bash Script Notes](/BashScriptNotes)
+- [Euler Project Repo] (https://github.com/Upendra03/BatCave-EulerProject)
