@@ -3,7 +3,7 @@
 Topics that I love, things I am working on
 
 - [Bash Script Notes](/BashScriptNotes)
-- [Euler Project Repo] (https://github.com/Upendra03/BatCave-EulerProject)
+- [Euler Project Repo](https://github.com/Upendra03/BatCave-EulerProject)
 - [Mahabharata](/Mahabharata.html)
 - [My Tasks](/MyTasks.md)
 
