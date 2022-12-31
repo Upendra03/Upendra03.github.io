@@ -1,0 +1,9 @@
+Steps to format a pen drive in windows
+
+* list disk
+* select disk 1
+* attributes disk clear readonly
+* clean
+* create partition primary
+* format fs=fat32
+* exit
