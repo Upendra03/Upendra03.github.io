@@ -1,4 +1,4 @@
 **Things to Check Out**
 
-games Zork and Adventure
+* games Zork and Adventure
 
